@@ -1,3 +1,3 @@
 Git is a version control system.
-Git is free sb software.
+Git is free gread software.
 Git has a mutable index called stage.
